@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Strug Fashion NFT Marketplace</h1>
+        <h1>Strugend Fashion NFT Marketplace</h1>
       </header>
     </div>
   );
